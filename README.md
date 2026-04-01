@@ -29,6 +29,3 @@ Como comentamos no curso, não é uma regra rígida. Entenda os pontos e cria se
 • Criar os menus de navegabilidade em cada página 🗺️
 • O estilo dos botões é livre! 🎨
 • O relatório é composto por 3 páginas 📑
-
----
-💡 **DICA para README:** Agora criei o arquivo inteiro codificado em um bloco de Markdown para que eu possa copiar o código-fonte bruto (com as marcações #, *, etc.) e salvar como .md.
